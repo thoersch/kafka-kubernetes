@@ -9,7 +9,7 @@ Prerequisities for minikube:
 * `brew install minikube`
 
 Start the minikube cluster
-* `minikube start --vm-driveer=hyperkit`
+* `minikube start --vm-driver=hyperkit`
 
 Verify cluster exists and ready:
 * `kubectl get nodes`
